@@ -16,7 +16,7 @@ connectDB
 
 
 
-
+//////////////////////// Another Method to Connect Database //////////////
     /*( async () => {
         try {
         await mongoose.connect(`${process.env.MONGODB_URI}/${DB_Name}`)
